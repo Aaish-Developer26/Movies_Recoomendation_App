@@ -1,0 +1,4 @@
+.venv/
+*.cpy
+
+__pycache__/
